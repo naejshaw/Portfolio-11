@@ -33,7 +33,7 @@
         "price": "$69.99",
         "images":[
             {
-                "url": "../src/img/sweater.png",
+                "url": "https://github.com/naejshaw/Portfolio-11/blob/7ba84d12f6f7c1438ab0b0c33f4004d006a02d7e/src/img/sweater.png",
                 "color": "#272727"
             }
         ]
