@@ -5,7 +5,7 @@
         "price": "$40.00",
         "images":[
             {
-                "url": "../src/img/T-shirt-black.png",
+                "url": "src/img/T-shirt-black.png",
                 "color": "#272727"
             },
             {
