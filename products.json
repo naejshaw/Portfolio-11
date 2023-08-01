@@ -5,11 +5,11 @@
         "price": "$40.00",
         "images":[
             {
-                "url": "https://github.com/naejshaw/Portfolio-11/blob/acd7ff6154609cb06d88d65a08f1328f312849c6/src/img/T-shirt-black.png",
+                "url": "../src/img/T-shirt-black.png",
                 "color": "#272727"
             },
             {
-                "url": "https://github.com/naejshaw/Portfolio-11/blob/6e4c3b4b2dd1d5f8dacce41aad3dec1884921dc4/src/img/T-shirt-darkblue.png",
+                "url": "../src/img/T-shirt-darkblue.png",
                 "color": "#23284E"
             }
         ]
@@ -21,7 +21,7 @@
         "price": "$52.99",
         "images":[
             {
-                "url": "https://github.com/naejshaw/Portfolio-11/blob/6e4c3b4b2dd1d5f8dacce41aad3dec1884921dc4/src/img/oversize-T-shirt-black.png",
+                "url": "../src/img/oversize-T-shirt-black.png",
                 "color": "#272727"
             }
         ]
@@ -33,7 +33,7 @@
         "price": "$69.99",
         "images":[
             {
-                "url": "https://github.com/naejshaw/Portfolio-11/blob/6e4c3b4b2dd1d5f8dacce41aad3dec1884921dc4/src/img/sweater.png",
+                "url": "../src/img/sweater.png",
                 "color": "#272727"
             }
         ]
