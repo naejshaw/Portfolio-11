@@ -1,0 +1,41 @@
+[   
+    {
+        "id": 1,
+        "name": "T-Shirt",
+        "price": "$40.00",
+        "images":[
+            {
+                "url": "src/img/T-shirt-black.png",
+                "color": "#272727"
+            },
+            {
+                "url": "src/img/T-shirt-darkblue.png",
+                "color": "#23284E"
+            }
+        ]
+    },
+
+    {
+        "id": 2,
+        "name": "Oversize T-Shirt",
+        "price": "$52.99",
+        "images":[
+            {
+                "url": "src/img/oversize-T-shirt-black.png",
+                "color": "#272727"
+            }
+        ]
+    },
+
+    {
+        "id": 3,
+        "name": "Sweater",
+        "price": "$69.99",
+        "images":[
+            {
+                "url": "src/img/sweater.png",
+                "color": "#272727"
+            }
+        ]
+    }
+]
