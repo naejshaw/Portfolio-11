@@ -9,7 +9,7 @@
                 "color": "#272727"
             },
             {
-                "url": "src/img/T-shirt-darkblue.png",
+                "url": "https://github.com/naejshaw/Portfolio-11/blob/6e4c3b4b2dd1d5f8dacce41aad3dec1884921dc4/src/img/T-shirt-darkblue.png",
                 "color": "#23284E"
             }
         ]
@@ -21,7 +21,7 @@
         "price": "$52.99",
         "images":[
             {
-                "url": "src/img/oversize-T-shirt-black.png",
+                "url": "https://github.com/naejshaw/Portfolio-11/blob/6e4c3b4b2dd1d5f8dacce41aad3dec1884921dc4/src/img/oversize-T-shirt-black.png",
                 "color": "#272727"
             }
         ]
@@ -33,7 +33,7 @@
         "price": "$69.99",
         "images":[
             {
-                "url": "src/img/sweater.png",
+                "url": "https://github.com/naejshaw/Portfolio-11/blob/6e4c3b4b2dd1d5f8dacce41aad3dec1884921dc4/src/img/sweater.png",
                 "color": "#272727"
             }
         ]
